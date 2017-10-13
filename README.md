@@ -8,19 +8,19 @@ Earlville, NY 13332
 
 E-mail: linux478@gmail.com
 
-_Career Objective:_
+_**Career Objective:**_
 
 To obtain a responsible position as a CAD Technician where my innovative skills in drafting, manufacturing and computers will benefit the growth of the company.
 
-_Education Summary:_
+_**Education Summary:**_
 
 * Associate of Applied Science: Mechanical Engineering Technology, Morrisville State College Morrisville, NY
 * Associate Science Degree: Computer Science, Erie Community College, Williamsville, NY
 * Certificate: Web-Network Technology, Erie Community College, Williamsville, NY 
 
-_Professional Experience:_
+_**Professional Experience:**_
 
-Knowles - Cazenovia, NY, 7/2007 to Present - CAD Technician
+_Knowles - Cazenovia, NY, 7/2007 to Present - CAD Technician_
 
 Took engineering design files and produced manufacturing documents for operators and technician 
 Designed filters, resistors, single layer capacitors, multi-layer capacitors in AutoCAD 2011 and 2014
@@ -31,19 +31,19 @@ Ordered requiring fixture, mask and other materials after drawing design approva
 Used software to create G-Code for laser machines
 Helped educate co-workers in new or unfamiliar features in department software
 
-Operation Associate – Manufacturing Floater, Sputter Operator, Firing Operator
+_Operation Associate – Manufacturing Floater, Sputter Operator, Firing Operator_
 
 Worked on 5S to reduce footprint and increase work efficiencies of working areas
 Verify manufacturing product was within tolerances for length, width, thickness, roughness, flatness
 Manage to keep multiple production equipment running at the same time like furnaces and sputter machines
 Worked with engineers in manufacturing experiments to improve quality and performance
 
-Temp to Hire – Data Entry Operator, Manufacturing Floater
+_Temp to Hire – Data Entry Operator, Manufacturing Floater_
 
 Inputting accounting and manufacturing information like sales orders and inventory control into two systems.  
 Verified the accuracy of new computer system to current computer system
 
-Computer Skills Summary:
+_**Computer Skills Summary:**_
 
 3-D Modeling:	2-D Design:	DXF to G-Code:	Programming:	Office Products
 Inventor	AutoCAD	BobCAD	AutoLisp	Word
