@@ -14,9 +14,9 @@ To obtain a responsible position as a CAD Technician where my innovative skills 
 
 _**Education Summary:**_
 
-* Associate of Applied Science: Mechanical Engineering Technology, Morrisville State College Morrisville, NY
-* Associate Science Degree: Computer Science, Erie Community College, Williamsville, NY
-* Certificate: Web-Network Technology, Erie Community College, Williamsville, NY 
+* Associate of Applied Science: _Mechanical Engineering Technology_, Morrisville State College Morrisville, NY
+* Associate Science Degree: _Computer Science_, Erie Community College, Williamsville, NY
+* Certificate: _Web-Network Technology_, Erie Community College, Williamsville, NY 
 
 _**Professional Experience:**_
 
