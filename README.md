@@ -10,7 +10,7 @@ E-mail: [linux478@gmail.com](mailto:linux478@gmail.com?Subject=Resume)
 
 _**Career Objective:**_
 
-To obtain a responsible position as a CAD Technician where my innovative skills in drafting, manufacturing and computers will benefit the growth of the company.
+To maintain a responsible position as a CAD Technician where my innovative skills in drafting, manufacturing and computer science will benefit the growth of the company.
 
 _**Education Summary:**_
 
@@ -22,14 +22,13 @@ _**Professional Experience:**_
 
 _Knowles - Cazenovia, NY, 7/2007 to Present - CAD Technician_
 
-* Took engineering design files and produced manufacturing documents for operators and technician 
-* Designed filters, resistors, single layer capacitors, multi-layer capacitors in AutoCAD 2011 and 2014
+* Took engineering design files and produced manufacturing documents for operators and technicians 
+* Drafted filters, resistors, single layer capacitors, multi-layer capacitors in AutoCAD 2011 and 2014
 * Designed test fixtures around different production products
-* Produced G-Code, Gerber file, DWF, PDF from dxf and dwg files
-* Created Autolisp routines to streamline repeated tasks like verifying G-Code and geometry placements
-* Ordered requiring fixture, mask and other materials after drawing design approval
-* Used software to create G-Code for laser machines
-* Helped educate co-workers in new or unfamiliar features in department software
+* Generated different file formats for production and vendor
+* Automated repetitive tasks with autolisp to improve the drafting process
+* Communicated with vendors to order required fixtures and material for production parts
+* Trained co-workers in new and/or unfamiliar features in department software
 
 _Operation Associate – Manufacturing Floater, Sputter Operator, Firing Operator_
 
@@ -40,10 +39,15 @@ _Operation Associate – Manufacturing Floater, Sputter Operator, Firing Operato
 
 _Temp to Hire – Data Entry Operator, Manufacturing Floater_
 
-* Inputting accounting and manufacturing information like sales orders and inventory control into two systems.  
-* Verified the accuracy of new computer system to current computer system
+* Data entry of accounting and manufacturing information like sales orders and inventory control into two systems.  
+* Analyze the accuracy of one enterprise resource planning system to another
 
 _**Computer Skills Summary:**_
 
-AutoCAD (5+ years) Inventor (2 years) Office (10+ years)
+* Computer Aid Design: AutoCAD (5+ years) Inventor (2 years)
+* Office Suite: Access (1+ years) Excel (10+ years) Word (10+ years)
+* Programming Language: Autolisp (5+ years)
 
+_**Examples**_
+
+* [GitHub](http://github.com/linux478)
