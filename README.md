@@ -1,20 +1,26 @@
 Michael D. Phillips 
-13 Taylor Avenue 	Phone: (315) 520-2568
-Earlville, NY 13332 	E-mail: linux478@gmail.com
 
-Career Objective: To obtain a responsible position as a CAD Technician where my innovative skills in drafting, manufacturing and computers will benefit the growth of the company.
+13 Taylor Avenue
 
-Education Summary:
+Phone: (315) 520-2568
 
-Associate of Applied Science: Mechanical Engineering Technology, Morrisville State College Morrisville, NY
-Associate Science Degree: Computer Science, Erie Community College, Williamsville, NY
-Certificate: Web-Network Technology, Erie Community College, Williamsville, NY 
+Earlville, NY 13332
 
-Professional Experience:
+E-mail: linux478@gmail.com
 
-Knowles - Cazenovia, NY, 7/2007 to Present
+_Career Objective:_
 
-CAD Technician
+To obtain a responsible position as a CAD Technician where my innovative skills in drafting, manufacturing and computers will benefit the growth of the company.
+
+_Education Summary:_
+
+* Associate of Applied Science: Mechanical Engineering Technology, Morrisville State College Morrisville, NY
+* Associate Science Degree: Computer Science, Erie Community College, Williamsville, NY
+* Certificate: Web-Network Technology, Erie Community College, Williamsville, NY 
+
+_Professional Experience:_
+
+Knowles - Cazenovia, NY, 7/2007 to Present - CAD Technician
 
 Took engineering design files and produced manufacturing documents for operators and technician 
 Designed filters, resistors, single layer capacitors, multi-layer capacitors in AutoCAD 2011 and 2014
