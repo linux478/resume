@@ -49,6 +49,6 @@ _**Computer Skills Summary:**_
 * Office Suite: Access (1+ years) Excel (10+ years) Word (10+ years)
 * Programming Language: Autolisp (5+ years)
 
-_**Examples**_
+_**Programming Examples**_
 
 * [GitHub](http://github.com/linux478)
