@@ -1,9 +1,8 @@
 # Michael D. Phillips # 
-13 Taylor Avenue
+13 Taylor Avenue  
 Earlville, NY 13332
 
-_Phone:_ (315) 520-2568
-
+_Phone:_ (315) 520-2568  
 _E-mail:_ [linux478@gmail.com](mailto:linux478@gmail.com?Subject=Resume)
 
 _**Career Objective:**_
