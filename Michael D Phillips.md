@@ -2,8 +2,9 @@
 13 Taylor Avenue
 Earlville, NY 13332
 
-Phone: (315) 520-2568
-E-mail: [linux478@gmail.com](mailto:linux478@gmail.com?Subject=Resume)
+_Phone:_ (315) 520-2568
+
+_E-mail:_ [linux478@gmail.com](mailto:linux478@gmail.com?Subject=Resume)
 
 _**Career Objective:**_
 
