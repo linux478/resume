@@ -1,11 +1,8 @@
-Michael D. Phillips 
-
+# Michael D. Phillips # 
 13 Taylor Avenue
-
-Phone: (315) 520-2568
-
 Earlville, NY 13332
 
+Phone: (315) 520-2568
 E-mail: [linux478@gmail.com](mailto:linux478@gmail.com?Subject=Resume)
 
 _**Career Objective:**_
@@ -20,25 +17,31 @@ _**Education Summary:**_
 
 _**Professional Experience:**_
 
-_Knowles - Cazenovia, NY, 7/2007 to Present - CAD Technician_
+_Knowles - Cazenovia, NY, 8/2017 to Present - CAD Technician_
+
+* Transforming 2D AutoCAD drawing to 3D Inventor drawings
+* Designing assemblies from bill of material
+* Drafting drawings from Inventor assembly files
+
+_Knowles - Cazenovia, NY, 7/2012 to 8/2017 - CAD Technician_
 
 * Took engineering design files and produced manufacturing documents for operators and technicians 
 * Drafted filters, resistors, single layer capacitors, multi-layer capacitors in AutoCAD 2011 and 2014
 * Designed test fixtures around different production products
-* Generated different file formats for production and vendor
-* Automated repetitive tasks with autolisp and improve the drafting processes
+* Generated different file formats for production and vendors
+* Automated repetitive tasks in AutoCAD with autolisp and improve the drafting processes
 * Created dynamic blocks to streamline common components
-* Communicated with vendors to order required fixtures and material for production parts
+* Communicated with vendors to order required fixtures and materials for production parts
 * Trained co-workers in new and/or unfamiliar features in department software
 
-_Operation Associate – Manufacturing Floater, Sputter Operator, Firing Operator_
+_Knowles - Cazenovia, NY, 1/2009 7/2012 - Operation Associate – Manufacturing Floater, Sputter Operator, Firing Operator_
 
 * Worked on 5S to reduce footprint and increase work efficiencies of working areas
-* Verify manufacturing product was within tolerances for length, width, thickness, roughness, flatness
+* Verify manufacturing products were within tolerances for length, width, thickness, roughness, and flatness
 * Manage to keep multiple production equipment running at the same time like furnaces and sputter machines
-* Worked with engineers in manufacturing experiments to improve quality and performance
+* Worked with engineers in manufacturing experiments to improve quality and performance of product
 
-_Temp to Hire – Data Entry Operator, Manufacturing Floater_
+_Knowles - Cazenovia, NY, 7/2007 - 1/2009 - Temp to Hire – Data Entry Operator, Manufacturing Floater_
 
 * Data entry of accounting and manufacturing information like sales orders and inventory control into two systems.  
 * Analyze the accuracy of one enterprise resource planning system to another
